@@ -1,0 +1,15 @@
+{
+    "default": {
+        "timeout": 1000,
+        "page": {
+            "viewport": {
+                "width": 320,
+                "height": 480
+            }
+        }
+    },
+    "urls": [
+        "https://github.com/",
+        "https://github.com/kavinarvind"
+    ]
+}
